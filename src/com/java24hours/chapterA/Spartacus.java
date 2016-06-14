@@ -14,7 +14,7 @@ public class Spartacus {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("I am Spartacus!")
+        System.out.println("I am Spartacus!");
     }
 
 }

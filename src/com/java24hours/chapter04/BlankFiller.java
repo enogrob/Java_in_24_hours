@@ -1,3 +1,5 @@
+package com.java24hours.chapter04;
+
 class BlankFiller {
     public static void main(String[] arguments) {
         System.out.println("The " + arguments[0]

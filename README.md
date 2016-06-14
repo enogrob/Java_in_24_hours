@@ -5,18 +5,16 @@ Solution Integrator Experienced - Certified by Ericsson
 
 # Java in 24 hours
 
-![java_in_24_hours_logo](images/java_in_24_hours.png)
+![ebook cover](images/ebook_cover.png)
 
 ## Table of Contents
 
 ```
-Table of Contents
-
 Part I: Getting Started
 [x] Hour 1: Becoming a Programmer
 [x] Hour 2: Writing Your First Program
 [x] Hour 3: Vacationing in Java
-[ ] Hour 4: Understanding How Java Programs Work
+[x] Hour 4: Understanding How Java Programs Work
 Part II: Learning the Basics of Programming
 [ ] Hour 5: Storing and Changing Information in a Program
 [ ] Hour 6: Using Strings to Communicate
