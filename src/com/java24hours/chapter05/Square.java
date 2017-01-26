@@ -1,8 +1,8 @@
 class Square {
    public static void main(String[] arguments) {
-      int x = 4;
-      int y = 5;
-      int sum = (x*x) + (y*y);
+      double x = 4.0;
+      double y = 5.0;
+      double sum = Math.sqrt(x) + Math.sqrt(y);
       System.out.println("The result of " + x + " squared plus "
           + y + " squared equals " + sum);
    }

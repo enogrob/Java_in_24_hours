@@ -16,7 +16,7 @@ Part I: Getting Started
 [x] Hour 3: Vacationing in Java
 [x] Hour 4: Understanding How Java Programs Work
 Part II: Learning the Basics of Programming
-[ ] Hour 5: Storing and Changing Information in a Program
+[x] Hour 5: Storing and Changing Information in a Program
 [ ] Hour 6: Using Strings to Communicate
 [ ] Hour 7: Using Conditional Tests to Make Decisions
 [ ] Hour 8: Repeating an Action with Loops

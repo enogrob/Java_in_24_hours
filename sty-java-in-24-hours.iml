@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter04" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter05" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter07" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter08" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter09" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter10" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter11" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter12" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter13" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter14" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter15" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter16" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter17" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter18" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter19" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter20" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter21" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter22" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter23" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapter24" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/chapterA" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/java24hours/exercises" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
